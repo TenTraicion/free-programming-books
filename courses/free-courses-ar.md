@@ -129,7 +129,8 @@
 ### Dart
 
 * [Dart بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan
-
+* [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Stack Overflow contributors
+* [Essential Dart](https://www.programming-books.io/essential/dart) -  Krzysztof Kowalczyk
 
 ### Databases
 
